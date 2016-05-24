@@ -26,6 +26,8 @@ import android.widget.TextView;
 
 public class FirstActivity extends Activity implements OnItemClickListener{
 	
+        //添加一句话，测试查看Github远程哭是否可同步（2016.05.24--Ayniu--）
+
 	Spinner sp1;//列表选择框sp1，sp2，sp3
 	Spinner sp2;
 	Spinner sp3;
